@@ -1,18 +1,19 @@
 # Documentación del Proyecto PredictiveLab
 
-Bienvenido al espacio de documentación colaborativa del proyecto desarrollado por el equipo de Ingeniería Civil en Computación para el curso **CC5402 - Proyecto de Software**, en colaboración con **Calmly** y la **Universidad de Chile**.
+Este espacio corresponde a la documentación colaborativa del proyecto desarrollado por el equipo de Ingeniería Civil en Computación para el curso **CC5402 - Proyecto de Software**, en colaboración con **Calmly** y la **Universidad de Chile**.
 
-## 🔍 Propósito
+## Propósito
 
-Esta wiki tiene como objetivo centralizar el conocimiento técnico y funcional del proyecto, incluyendo decisiones de arquitectura, estructura del código, flujos de datos y gestión de alertas industriales.
+Esta wiki tiene como objetivo centralizar el conocimiento técnico y funcional del proyecto, incluyendo decisiones de arquitectura, estructura del código y flujos de datos.
 
-## 🧑‍💻 Equipo
+## Equipo
 
-- 7 estudiantes dedicados 16 hrs/semana
-- Cliente: Calmly (PredictiveLab)
-- Mentor DCC: [Nombre Profe]
+- Estudiantes: Ariel León, Benjamín Alvial, Clemente Grass, Daniela Moraga, Felipe Torralba, Gaspar Gumucio, Valentina Montoya
+- Cliente: Calmly - PredictiveLab
+- Profesora: Cecilia Bastarrica
+- Tutora: Antonia Raquiman
 
-## 📅 Calendario
+## Fechas
 
-- Inicio: Semana 1 (abril)
-- Finalización: Semana 15
+- Inicio: 10 de Abril 2025
+- Finalización: 4 de Julio 2025
