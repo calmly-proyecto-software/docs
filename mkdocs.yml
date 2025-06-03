@@ -1,0 +1,17 @@
+site_name: PredictiveLab Docs
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.instant
+    - navigation.sections
+    - content.code.annotate
+    - search.highlight
+
+nav:
+  - Inicio: index.md
+  - Arquitectura:
+      - Visión General: arquitectura/overview.md
+      - Pipeline de Datos: arquitectura/data_pipeline.md
+  - Despliegue:
+      - Ambientes: despliegue/ambientes.md

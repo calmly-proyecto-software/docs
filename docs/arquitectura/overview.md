@@ -1,0 +1,1 @@
+-- Diagrama, decisiones técnicas --
